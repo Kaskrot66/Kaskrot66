@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Ayman 👋
 
-<!--
-**Kaskrot66/Kaskrot66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity & software development student based in Casablanca, Morocco. Currently interning at **Black Box Solutions** (pentesting, SOC, compliance, incident response).
 
-Here are some ideas to get you started:
+- 🛡️ Interested in network security, intrusion detection, and ML-based security tooling
+- 🔧 Working across Python, networking (Scapy/iptables), and full-stack development
+- 🇫🇷🇬🇧 Working in French and English depending on context
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured Projects**
+- [SentryAI](https://github.com/Kaskrot66/SentryAI) — ML-based Network Intrusion Prevention System (Random Forest, Scapy, iptables)
+- [honeypot-project](https://github.com/Kaskrot66/honeypot-project) — Cowrie-based SSH honeypot with attack log analysis
+- [EMSI-netguard](https://github.com/Kaskrot66/EMSI-netguard) — Python packet sniffing CLI tool
+
+📫 Reach me via GitHub issues or discussions on my repos.
